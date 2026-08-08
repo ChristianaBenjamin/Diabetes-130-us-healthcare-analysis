@@ -79,19 +79,19 @@ After cleaning, the working dataset contained **101,766 encounters and 45 variab
 
 #### Gender
 
-![Gender distribution](images/gender_distribution.png)
+![Gender distribution](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/gender_distribution.png)
 
 Female encounters represented a slightly larger share of the dataset than male encounters, while unknown gender values were negligible.
 
 #### Age
 
-![Age distribution](images/age_distribution.png)
+![Age distribution](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/age_distribution.png)
 
 The dataset was concentrated among older adults, particularly encounters involving patients aged 60–80 years.
 
 #### Race
 
-![Race distribution](images/race_distribution.png)
+![Race distribution](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/race_distribution.png)
 
 Caucasian encounters represented the largest racial group, followed by African American encounters. Other racial groups represented considerably smaller proportions of the dataset.
 
@@ -99,7 +99,7 @@ Caucasian encounters represented the largest racial group, followed by African A
 
 #### Length of Hospital Stay
 
-![Length of stay](images/length_of_stay.png)
+![Length of stay](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/length_of_stay.png)
 
 Most encounters involved relatively short hospital stays, with the distribution concentrated around 2–6 days. The average length of stay was approximately 4.4 days.
 
@@ -107,7 +107,7 @@ Most encounters involved relatively short hospital stays, with the distribution 
 
 #### Top 10 Diabetes Medications
 
-![Top 10 diabetes medications](images/top_10_diabetes_medications.png)
+![Top 10 diabetes medications](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/top_10_diabetes_medications.png)
 
 Insulin and metformin were the most frequently recorded diabetes medications in the dataset.
 
@@ -115,19 +115,19 @@ Insulin and metformin were the most frequently recorded diabetes medications in 
 
 #### Overall Readmission Distribution
 
-![Readmission distribution](images/readmission_distribution.png)
+![Readmission distribution](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/readmission_distribution.png)
 
 More than half of encounters had no recorded readmission, while 11.2% involved readmission within 30 days and 34.9% involved readmission after 30 days.
 
 #### Early Readmission by Age Group
 
-![Early readmission by age](images/early_readmission_by_age.png)
+![Early readmission by age](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/early_readmission_by_age.png)
 
 The proportion of encounters followed by readmission within 30 days varied across age groups, with the highest proportions observed among several older age groups.
 
 #### Readmission by Medication Change
 
-![Readmission by medication change](images/readmission_by_medication_change.png)
+![Readmission by medication change](https://github.com/ChristianaBenjamin/Diabetes-130-us-healthcare-analysis/blob/main/Images/readmission_by_medication_change.png)
 
 Encounters involving a diabetes medication change showed slightly higher proportions of both early and later readmission compared with encounters where medication was unchanged. This is an association and does not establish that medication changes cause readmission.
 
